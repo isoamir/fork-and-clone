@@ -74,4 +74,57 @@ body {
     position: absolute;
     right: 100px;
 }
-.card1{}
+.card1{
+    position: absolute;
+    left: 180px;
+    top: 200px;
+    width: 290px;
+    height: 30px;
+    background-color: #393939;
+    text-align: center;
+    border: solid #4b4b4b;
+    border-radius: 5px;
+}
+.card2{
+    width: 500px;
+    position: absolute;
+    left: 180px;
+    top: 250px;
+}
+.card3{
+    color: #a5a5a5;
+    position: absolute;
+    left: 180px;
+    top: 340px;
+}
+.card4{
+    position: absolute;
+    left: 180px;
+    top: 390px;
+    width: 350px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    color: #6c6c6c;
+}
+.card4 h4{
+    position: absolute;
+    left: 15px;
+    top: 13px;
+}
+.card4 button{
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    right: 15px;
+    top: 10px;
+    border: none;
+    background-color: #ff4d3e;
+    color: #fff;
+    border-radius: 5px;
+}
+.card5{
+    position: absolute;
+    left: 180px;
+    top: 480px;
+}
